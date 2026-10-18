@@ -53,6 +53,6 @@ My approach: understand **why** something works, not just which command to run.
 
 ## Contact
 
-📫 [LinkedIn] (https://www.linkedin.com/in/hamza-guerfel/) · 💻 [GitHub](https://github.com/hamzaguerfeldev-coder)
+📫 [LinkedIn](https://www.linkedin.com/in/hamza-guerfel/) · 💻 [GitHub](https://github.com/hamzaguerfeldev-coder)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt=""/>
