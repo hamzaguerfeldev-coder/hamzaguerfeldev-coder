@@ -1,58 +1,97 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=140&section=header" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f3a5f,100:2c5364&height=200&section=header&text=Hamza&fontColor=ffffff&fontSize=62&fontAlignY=38&animation=fadeIn&desc=Cloud%20%26%20DevOps%20Engineer%20in%20Training&descAlignY=60&descSize=20" width="100%" alt=""/>
 
-# Guerfel Hamza
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Linux+%C2%B7+Networking+%C2%B7+Bash+%C2%B7+Git;Now+learning%3A+Docker+%F0%9F%90%B3;Next%3A+AWS+%E2%86%92+Terraform+%E2%86%92+CI%2FCD+%E2%86%92+Kubernetes;Building+in+public%2C+one+commit+a+day" alt="Typing animation"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=2C9FD9&center=true&vCenter=true&width=560&lines=Cloud+%26+DevOps+Engineer+in+Training;Linux+%C2%B7+Networking+%C2%B7+Automation;Building+in+public" alt="Typing animation"/>
+<br><br>
 
-<br>
+[![GitHub](https://img.shields.io/badge/GitHub-hamzaguerfeldev--coder-181717?style=for-the-badge&logo=github)](https://github.com/hamzaguerfeldev-coder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[votre-profil])
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/hamzaguerfeldev-coder)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-guerfel/)
+🎯 **Targeting Cloud / DevOps roles in Germany** 🇩🇪
 
 </div>
 
 ---
 
-## About
+## 👨‍💻 About
 
-I'm training for a **Cloud / DevOps engineering** role. I build hands-on labs, break them on purpose, debug them, and document the results in public.
+I'm training for a **Cloud / DevOps engineering** career. I learn by building: labs, scripts, and projects that I break on purpose, debug, and document in public.
 
-My approach: understand **why** something works, not just which command to run.
+I care about understanding **why** something works, not just which command to run.
 
-## Tech Stack
+| 🔭 Working on | 🌱 Learning | 🎯 Goal |
+|---|---|---|
+| Docker & containers | Advanced Git, AWS | Cloud Engineer role in Germany |
+
+---
+
+## 🧰 Tech Stack
 
 <div align="center">
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**Solid foundations**
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github&theme=dark" alt="Linux, Ubuntu, Bash, Git, GitHub"/>
+
+**Currently learning**
+
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker"/>
 
 </div>
 
 **Completed:** Linux administration · Permissions & processes · Bash scripting · Networking fundamentals · Git & GitHub Flow
 
-**In progress:** Docker · Advanced Git
+---
 
-**Next:** AWS → Terraform → CI/CD → Kubernetes
+## 🗺️ Roadmap
 
-## Roadmap
+```mermaid
+flowchart LR
+  A[Linux] --> B[Bash] --> C[Networking] --> D[Git] --> E[Docker] --> F[AWS] --> G[Terraform] --> H[CI/CD] --> I[Kubernetes]
+  classDef done fill:#238636,stroke:#2ea043,color:#fff
+  classDef wip fill:#9e6a03,stroke:#d29922,color:#fff
+  classDef next fill:#21262d,stroke:#30363d,color:#8b949e
+  class A,B,C done
+  class D,E wip
+  class F,G,H,I next
+```
 
-| Stage | Focus | Status |
-|---|---|---|
-| 1 | Linux & Bash | ✅ Completed |
-| 2 | Networking | ✅ Completed |
-| 3 | Git & Advanced Git | 🔄 Finishing |
-| 4 | Docker | 🔄 Starting |
-| 5 | AWS & Terraform | ⏳ Planned |
-| 6 | CI/CD & Kubernetes | ⏳ Planned |
-## Featured Project
+🟩 Completed · 🟨 In progress · ⬛ Planned
 
+---
 
-## Contact
+## 🚀 Featured Project
 
-📫 [LinkedIn](https://www.linkedin.com/in/hamza-guerfel/) · 💻 [GitHub](https://github.com/hamzaguerfeldev-coder)
+### [☁️ Cloud & Cybersecurity Journey](https://github.com/hamzaguerfeldev-coder/cloud-cybersecurity-journey)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt=""/>
+A structured, documented path from Linux fundamentals to cloud infrastructure and security. Each module has notes, labs, and scripts, with daily commits as proof of progress.
+
+`Linux` `Bash` `Networking` `Git` `Docker`
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=hamzaguerfeldev-coder&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+<img height="160" src="https://streak-stats.demolab.com?user=hamzaguerfeldev-coder&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+I'm open to conversations about Cloud, DevOps and junior opportunities.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[votre-profil])
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:[votre@email.com])
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:1f3a5f,100:0d1117&height=100&section=footer" width="100%" alt=""/>
+
+</div>
