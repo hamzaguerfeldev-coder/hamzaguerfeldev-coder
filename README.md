@@ -2,13 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=140&section=header" width="100%" alt=""/>
 
-# Hamza
+# Guerfel Hamza
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=2C9FD9&center=true&vCenter=true&width=560&lines=Cloud+%26+DevOps+Engineer+in+Training;Linux+%C2%B7+Networking+%C2%B7+Automation;Building+in+public" alt="Typing animation"/>
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-hamzaguerfeldev--coder-181717?style=flat&logo=github)](https://github.com/hamzaguerfeldev-coder)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/hamzaguerfeldev-coder)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming_soon-0A66C2?style=flat&logo=linkedin&logoColor=white)](#)
 
 </div>
