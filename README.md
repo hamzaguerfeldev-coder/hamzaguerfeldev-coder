@@ -32,10 +32,22 @@ My approach: understand **why** something works, not just which command to run.
 
 </div>
 
-**Foundations:** Linux administration · Permissions & processes · Shell scripting · Networking fundamentals
+**Completed:** Linux administration · Permissions & processes · Bash scripting · Networking fundamentals · Git & GitHub Flow
 
-**Next:** Docker → AWS → Terraform → CI/CD
+**In progress:** Docker · Advanced Git
 
+**Next:** AWS → Terraform → CI/CD → Kubernetes
+
+## Roadmap
+
+| Stage | Focus | Status |
+|---|---|---|
+| 1 | Linux & Bash | ✅ Completed |
+| 2 | Networking | ✅ Completed |
+| 3 | Git & Advanced Git | 🔄 Finishing |
+| 4 | Docker | 🔄 Starting |
+| 5 | AWS & Terraform | ⏳ Planned |
+| 6 | CI/CD & Kubernetes | ⏳ Planned |
 ## Featured Project
 
 ### [Cloud & Cybersecurity Journey](https://github.com/hamzaguerfeldev-coder/cloud-cybersecurity-journey)
