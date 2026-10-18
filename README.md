@@ -1,95 +1,61 @@
-# Hi, I'm Hamza 👋
+<div align="center">
 
-### Cloud & DevOps Engineer in Training
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=140&section=header" width="100%" alt=""/>
 
-I'm building my foundation in **Linux, networking, cloud infrastructure, automation, and cybersecurity** through hands-on projects and continuous practice.
+# Hamza
 
-I document what I learn, build practical labs, troubleshoot problems, and improve my projects along the way.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=2C9FD9&center=true&vCenter=true&width=560&lines=Cloud+%26+DevOps+Engineer+in+Training;Linux+%C2%B7+Networking+%C2%B7+Automation;Building+in+public" alt="Typing animation"/>
 
----
+<br>
 
-## 🚀 Current Journey
+[![GitHub](https://img.shields.io/badge/GitHub-hamzaguerfeldev--coder-181717?style=flat&logo=github)](https://github.com/hamzaguerfeldev-coder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming_soon-0A66C2?style=flat&logo=linkedin&logoColor=white)](#)
 
-**Linux → Bash → Networking → Docker → Cloud → Terraform → CI/CD → Kubernetes**
-
-Currently focused on strengthening my Linux and Bash foundations before moving deeper into networking and cloud infrastructure.
-
----
-
-## 🧰 Current Skills
-
-* 🐧 Linux
-* 🖥️ Bash / Shell Scripting
-* 🔐 Linux Permissions & Processes
-* 🌐 Networking Fundamentals
-* 🔧 Git & GitHub
-
-### Coming Next
-
-* 🐳 Docker
-* ☁️ AWS
-* 🏗️ Terraform
-* ⚙️ CI/CD
-* ☸️ Kubernetes
-* 🔒 Cloud Security
+</div>
 
 ---
 
-## 🔨 Main Project
+## About
 
-### Cloud & Cybersecurity Journey
+I'm training for a **Cloud / DevOps engineering** role. I build hands-on labs, break them on purpose, debug them, and document the results in public.
 
-A hands-on learning repository documenting my progression from Linux fundamentals toward cloud, DevOps, and cybersecurity.
+My approach: understand **why** something works, not just which command to run.
 
-**Topics include:**
+## Tech Stack
 
-* Linux administration
-* Permissions & processes
-* Bash automation
-* Networking
-* Containers
-* Cloud infrastructure
-* Infrastructure as Code
-* CI/CD
-* Kubernetes
-* Cloud security
+<div align="center">
 
-👉 [View the repository](https://github.com/hamzaguerfeldev-coder/cloud-cybersecurity-journey)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
+</div>
 
-## 📚 How I Learn
+**Foundations:** Linux administration · Permissions & processes · Shell scripting · Networking fundamentals
 
-```text
-Learn → Build → Break → Debug → Document → Repeat
-```
+**Next:** Docker → AWS → Terraform → CI/CD
 
-I focus on understanding **why** something works, not just copying commands.
+## Featured Project
 
----
+### [Cloud & Cybersecurity Journey](https://github.com/hamzaguerfeldev-coder/cloud-cybersecurity-journey)
 
-## 🎯 Current Focus
+A structured, documented learning path from Linux fundamentals to cloud infrastructure and security, with labs, scripts, and notes for each stage.
 
-I'm currently working on:
+`Linux` `Bash` `Networking` `Git`
 
-* Linux fundamentals
-* Bash scripting
-* Networking fundamentals
-* Building practical automation projects
+## Roadmap
 
----
+| Stage | Focus | Status |
+|---|---|---|
+| 1 | Linux & Bash | 🔄 In progress |
+| 2 | Networking | ⏳ Next |
+| 3 | Docker | ⏳ Planned |
+| 4 | AWS & Terraform | ⏳ Planned |
+| 5 | CI/CD & Kubernetes | ⏳ Planned |
 
-## 📈 What I'm Working Toward
+## Contact
 
-My goal is to develop practical skills for a career in **Cloud / DevOps / Cloud Security engineering** by building real projects and progressively working with modern infrastructure tools.
+📫 LinkedIn: *coming soon* · 💻 [GitHub](https://github.com/hamzaguerfeldev-coder)
 
----
-
-## 🤝 Let's Connect
-
-* 💻 [GitHub](https://github.com/hamzaguerfeldev-coder)
-* 📫 LinkedIn — coming soon
-
----
-
-> **Build it. Break it. Understand it. Automate it.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt=""/>
