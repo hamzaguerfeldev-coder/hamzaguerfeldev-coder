@@ -50,24 +50,9 @@ My approach: understand **why** something works, not just which command to run.
 | 6 | CI/CD & Kubernetes | ⏳ Planned |
 ## Featured Project
 
-### [Cloud & Cybersecurity Journey](https://github.com/hamzaguerfeldev-coder/cloud-cybersecurity-journey)
-
-A structured, documented learning path from Linux fundamentals to cloud infrastructure and security, with labs, scripts, and notes for each stage.
-
-`Linux` `Bash` `Networking` `Git`
-
-## Roadmap
-
-| Stage | Focus | Status |
-|---|---|---|
-| 1 | Linux & Bash | 🔄 In progress |
-| 2 | Networking | ⏳ Next |
-| 3 | Docker | ⏳ Planned |
-| 4 | AWS & Terraform | ⏳ Planned |
-| 5 | CI/CD & Kubernetes | ⏳ Planned |
 
 ## Contact
 
-📫 LinkedIn: *coming soon* · 💻 [GitHub](https://github.com/hamzaguerfeldev-coder)
+📫 [LinkedIn] (https://www.linkedin.com/in/hamza-guerfel/) · 💻 [GitHub](https://github.com/hamzaguerfeldev-coder)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt=""/>
