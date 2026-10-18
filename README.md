@@ -26,6 +26,10 @@ I care about understanding **why** something works, not just which command to ru
 | Docker & containers | Advanced Git, AWS | Cloud Engineer role in Germany |
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamzaguerfeldev-coder/hamzaguerfeldev-coder/output/github-snake-dark.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/hamzaguerfeldev-coder/hamzaguerfeldev-coder/output/github-snake.svg">
+</picture>
 
 ## 🧰 Tech Stack
 
