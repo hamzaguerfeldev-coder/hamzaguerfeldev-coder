@@ -9,7 +9,7 @@
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/hamzaguerfeldev-coder)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming_soon-0A66C2?style=flat&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-guerfel/)
 
 </div>
 
