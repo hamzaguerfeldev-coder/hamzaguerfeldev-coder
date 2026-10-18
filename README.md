@@ -6,8 +6,8 @@
 
 <br><br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-hamzaguerfeldev--coder-181717?style=for-the-badge&logo=github)](https://github.com/hamzaguerfeldev-coder)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[votre-profil])
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/hamzaguerfeldev-coder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-guerfel/)
 
 🎯 **Targeting Cloud / DevOps roles in Germany** 🇩🇪
 
@@ -89,8 +89,8 @@ A structured, documented path from Linux fundamentals to cloud infrastructure an
 
 I'm open to conversations about Cloud, DevOps and junior opportunities.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[votre-profil])
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:[votre@email.com])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-guerfel/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:[hamza.guerfel.dev@gmail.com])
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:1f3a5f,100:0d1117&height=100&section=footer" width="100%" alt=""/>
 
