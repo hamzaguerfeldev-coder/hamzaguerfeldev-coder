@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f3a5f,100:2c5364&height=200&section=header&text=Hamza&fontColor=ffffff&fontSize=62&fontAlignY=38&animation=fadeIn&desc=Cloud%20%26%20DevOps%20Engineer%20in%20Training&descAlignY=60&descSize=20" width="100%" alt=""/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Linux+%C2%B7+Networking+%C2%B7+Bash+%C2%B7+Git;Now+learning%3A+Docker+%F0%9F%90%B3;Next%3A+AWS+%E2%86%92+Terraform+%E2%86%92+CI%2FCD+%E2%86%92+Kubernetes;Building+in+public%2C+one+commit+a+day" alt="Typing animation"/>
