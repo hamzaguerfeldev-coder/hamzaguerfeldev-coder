@@ -89,7 +89,11 @@ A structured, documented path from Linux fundamentals to cloud infrastructure an
 
 <div align="center">
 
-<img height="160" src="https://streak-stats.demolab.com?user=hamzaguerfeldev-coder&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<img height="160" src="https://streak-stats.demolab.com?user=hamzaguerfeldev-coder&theme=tokyonight&hide_border=true&v=3" alt="GitHub streak"/>
+
+<br><br>
+
+<img src="https://ghchart.rshah.org/2c9fd9/hamzaguerfeldev-coder?v=3" alt="GitHub contribution graph" width="90%"/>
 
 <br><br>
 
@@ -100,6 +104,7 @@ A structured, documented path from Linux fundamentals to cloud infrastructure an
 
 </div>
 
+---
 ---
 
 ## 📫 Let's Connect
