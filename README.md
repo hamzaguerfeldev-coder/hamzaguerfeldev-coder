@@ -1,8 +1,8 @@
 <div align="center">
-  
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f3a5f,100:2c5364&height=200&section=header&text=Hamza&fontColor=ffffff&fontSize=62&fontAlignY=38&animation=fadeIn&desc=Cloud%20%26%20DevOps%20Engineer%20in%20Training&descAlignY=60&descSize=20" width="100%" alt=""/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Linux+%C2%B7+Networking+%C2%B7+Bash+%C2%B7+Git;Now+learning%3A+Docker+%F0%9F%90%B3;Next%3A+AWS+%E2%86%92+Terraform+%E2%86%92+CI%2FCD+%E2%86%92+Kubernetes;Building+in+public%2C+one+commit+a+day" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Linux+%C2%B7+Networking+%C2%B7+Bash+%C2%B7+Git;Now+learning%3A+Docker+%F0%9F%90%B3;Next%3A+AWS+%E2%86%92+Terraform+%E2%86%92+CI%2FCD+%E2%86%92+Kubernetes;Building+in+public" alt="Typing animation"/>
 
 <br><br>
 
@@ -21,15 +21,11 @@ I'm training for a **Cloud / DevOps engineering** career. I learn by building: l
 
 I care about understanding **why** something works, not just which command to run.
 
-| 🔭 Working on | 🌱 Learning | 🎯 Goal |
+| 🔭 Working on | 🌱 Finishing | 🎯 Goal |
 |---|---|---|
-| Docker & containers | Advanced Git, AWS | Cloud Engineer role in Germany |
+| Docker & containers | Advanced Git | Cloud Engineer role in Germany |
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamzaguerfeldev-coder/hamzaguerfeldev-coder/output/github-snake-dark.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/hamzaguerfeldev-coder/hamzaguerfeldev-coder/output/github-snake.svg">
-</picture>
 
 ## 🧰 Tech Stack
 
@@ -56,7 +52,9 @@ I care about understanding **why** something works, not just which command to ru
 
 </div>
 
-**Completed:** Linux administration · Permissions & processes · Bash scripting · Networking fundamentals · Git & GitHub Flow
+**Completed:** Linux administration · Permissions & processes · Bash scripting · Networking fundamentals · Git basics & GitHub Flow
+
+**In progress:** Advanced Git · Docker
 
 ---
 
@@ -81,17 +79,25 @@ flowchart LR
 
 ### [☁️ Cloud & Cybersecurity Journey](https://github.com/hamzaguerfeldev-coder/cloud-cybersecurity-journey)
 
-A structured, documented path from Linux fundamentals to cloud infrastructure and security. Each module has notes, labs, and scripts, with daily commits as proof of progress.
+A structured, documented path from Linux fundamentals to cloud infrastructure and security. Each module has notes, labs, and scripts, with regular commits as proof of progress.
 
-`Linux` `Bash` `Networking` `Git` `Docker`
+`Linux` `Bash` `Networking` `Git`
 
 ---
 
 ## 📊 GitHub Activity
 
 <div align="center">
+
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=hamzaguerfeldev-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&v=2" alt="GitHub stats"/>
 <img height="160" src="https://streak-stats.demolab.com?user=hamzaguerfeldev-coder&theme=tokyonight&hide_border=true&v=2" alt="GitHub streak"/>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamzaguerfeldev-coder/hamzaguerfeldev-coder/output/github-snake-dark.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/hamzaguerfeldev-coder/hamzaguerfeldev-coder/output/github-snake.svg">
+</picture>
 
 </div>
 
@@ -104,7 +110,7 @@ A structured, documented path from Linux fundamentals to cloud infrastructure an
 I'm open to conversations about Cloud, DevOps and junior opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-guerfel/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:[hamza.guerfel.dev@gmail.com])
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hamza.guerfel.dev@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:1f3a5f,100:0d1117&height=100&section=footer" width="100%" alt=""/>
 
