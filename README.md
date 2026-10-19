@@ -90,9 +90,8 @@ A structured, documented path from Linux fundamentals to cloud infrastructure an
 ## 📊 GitHub Activity
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=hamzaguerfeldev-coder&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-<img height="160" src="https://streak-stats.demolab.com?user=hamzaguerfeldev-coder&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=hamzaguerfeldev-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&v=2" alt="GitHub stats"/>
+<img height="160" src="https://streak-stats.demolab.com?user=hamzaguerfeldev-coder&theme=tokyonight&hide_border=true&v=2" alt="GitHub streak"/>
 
 </div>
 
