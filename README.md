@@ -75,13 +75,18 @@ flowchart LR
 
 ---
 
-## 🚀 Featured Project
+## 🚀 My Journey
 
 ### [☁️ Cloud & Cybersecurity Journey](https://github.com/hamzaguerfeldev-coder/cloud-cybersecurity-journey)
 
 A structured, documented path from Linux fundamentals to cloud infrastructure and security. Each module has notes, labs, and scripts, with regular commits as proof of progress.
 
 `Linux` `Bash` `Networking` `Git`
+
+---
+## 🚀 Featured Project
+
+### [🧰 Secure-Linux-Network-Lab](https://github.com/hamzaguerfeldev-coder/secure-linux-network-lab)
 
 ---
 
